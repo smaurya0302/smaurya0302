@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Dr Sudhanshu Maurya @smaurya0302<br>⚡ I'm working as: Associate Professor and Incharge, Research & Innovation at Symbiosis Institute of Technology, Nagpur<br>👀 I’m interested in Artificial Intelligence / Machine Learning<br>🌱 I’m currently learning Transformer Learning<br>💞️ I’m looking to collaborate on Research Paper, Project, and Innovative solutions<br>📫 How to reach me: dr.smaurya3feb@gmail.com<br>😄 Pronouns: He/Him
+👋 Hi, I’m Dr Sudhanshu Maurya @smaurya0302<br>⚡ I'm working as: Professor and Program Incharge, B. Tech CSE (Specialization in Quantum Computing) at Manav Rachna International Institute of Research and Studies (Deemed to be University), Faridabad, India <br>👀 I’m interested in Artificial Intelligence / Machine Learning and Security<br>🌱 I’m currently learning Transformer Learning<br>💞️ I’m looking to collaborate on Research Paper, Project, and Innovative solutions<br>📫 How to reach me: dr.smaurya3feb@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
